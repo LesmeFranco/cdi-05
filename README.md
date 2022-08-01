@@ -1,1 +1,6 @@
-# cdi-05
+# Hello
+Alumno: Lesme Franco
+Curso: 4to 1ra Avionica
+Materia: Control de Interfaces
+
+Colaboradores: Osores Pablo
